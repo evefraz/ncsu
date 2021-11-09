@@ -1,0 +1,21 @@
+/*
+ *Name: Eve Frazier
+ *UnityID: ekfrazi2
+ *Date: 11/9/21
+ *Assignment: HTML and Styling IA
+ *Description: Webpage for Intro to XHTML and Styling Independent Assignment
+ */
+ 
+body {
+    background-color: #FDE0E1;
+}
+
+.table-border {
+    border: 2px solid #300F33;
+}
+
+#photo {
+    border: 2px outset #189950;
+	max-height: 250px;
+	max-width: 200px;
+}
